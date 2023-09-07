@@ -1,6 +1,10 @@
 # Web-Audio-Recorder 
 Audio Recorder widget is used to record the audio and convert the audio to base64value.
 
+# Dependencies
+Mendix version Above 9
+
+
 # Configuration-
 Place this widget inside the data view and create object to the Chosen Entity for data view.
 Add one Attribute with string (unlimited) in that Entity.
